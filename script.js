@@ -48,6 +48,6 @@ tl.to(".part1 .main-img ", {
     scroller: "body",
     start: "40% 1%",
     scrub: true,
-    markers: true,
+    markers: false,
   },
 });
